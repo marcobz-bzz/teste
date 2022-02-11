@@ -1,4 +1,4 @@
-#### Tutorial GIT -- Repositórios
+## Tutorial GIT -- Repositórios
 
 1. Após criar uma conta, se ainda não tiver, gerar um token para acesso remoto.
 
