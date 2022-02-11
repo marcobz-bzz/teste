@@ -36,9 +36,9 @@ $$$$$$$$$$$$$$$$$$$$$$$$$
 `$ git push -u origin master`
 
 ~~~
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$ EM CASO DE EDIÇÃO POR OUTROS $$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$ EM CASO DE EDIÇÃO POR OUTROS, OU SE FOR FAZER UMA NOVA EDIÇÃO $$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ~~~
 
 #### 8. Atualizar -- fazer download das ultimas mudanças do SERVIDOR GIT para o DIRETÓRIO LOCAL.
