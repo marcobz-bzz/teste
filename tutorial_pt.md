@@ -13,7 +13,7 @@
 Se tiver proxy NTLM, utilizar o deamon _cntlm_, por exemplo, na porta 31280 do _localhost_.
 
 
-```$ git clone https://[TOKEN]@github.com/[USUARIO]/[REPOSITÓRIO] --config "http.proxy=localhost:31280"```
+`$ git clone https://[TOKEN]@github.com/[USUARIO]/[REPOSITÓRIO] --config "http.proxy=localhost:31280"`
 
 ~~~
 $$$$$$$$$$$$$$$$$$$$$$$$$
