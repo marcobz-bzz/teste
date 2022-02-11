@@ -32,9 +32,11 @@ Se tiver proxy NTLM, utilizar o deamon _cntlm_, por exemplo, na porta 31280 do _
 
 **$ git push -u origin master**
 
-#### $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-#### $$$ EM CASO DE EDIÇÃO POR OUTROS $$$
-#### $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+~~~
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$ EM CASO DE EDIÇÃO POR OUTROS $$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+~~~
 
 #### 8. Atualizar -- fazer download das ultimas mudanças do SERVIDOR GIT para o DIRETÓRIO LOCAL.
 
