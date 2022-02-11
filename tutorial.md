@@ -12,9 +12,8 @@
 
 Se tiver proxy NTLM, utilizar o deamon _cntlm_, por exemplo, na porta 31280 do _localhost_.
 
-~~~
-$ git clone https://[TOKEN]@github.com/[USUARIO]/[REPOSITÓRIO] --config "http.proxy=localhost:31280"
-~~~
+
+```$ git clone https://[TOKEN]@github.com/[USUARIO]/[REPOSITÓRIO] --config "http.proxy=localhost:31280"```
 
 ~~~
 $$$$$$$$$$$$$$$$$$$$$$$$$
@@ -30,11 +29,11 @@ $$$$$$$$$$$$$$$$$$$$$$$$$
 
 #### 6. Criar o snapshot do projeto através do COMMIT no REPOSITÓRIO LOCAL.
 
-**$ git commit -m "comentário: fechando snapshot e testando atualização"**
+```$ git commit -m "comentário: fechando snapshot e testando atualização"```
 
 #### 7. Fazer o upload do snapshot para o SERVIDOR GIT através do PUSH.
 
-**$ git push -u origin master**
+```$ git push -u origin master```
 
 ~~~
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -44,6 +43,6 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #### 8. Atualizar -- fazer download das ultimas mudanças do SERVIDOR GIT para o DIRETÓRIO LOCAL.
 
-**$ git pull origin**
+```$ git pull origin```
 
 ~~~ FIM ~~~
