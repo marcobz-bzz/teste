@@ -25,15 +25,15 @@ $$$$$$$$$$$$$$$$$$$$$$$$$
 
 #### 5. Adicionar as mudanças do DIRETÓRIO LOCAL para a área de STAGE -- "STAGING AREA".
 
-```$ git add .```
+`$ git add .`
 
 #### 6. Criar o snapshot do projeto através do COMMIT no REPOSITÓRIO LOCAL.
 
-```$ git commit -m "comentário sobre as modificações feitas"```
+`$ git commit -m "comentário sobre as modificações feitas"`
 
 #### 7. Fazer o upload do snapshot para o SERVIDOR GIT através do PUSH.
 
-```$ git push -u origin master```
+`$ git push -u origin master`
 
 ~~~
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
@@ -43,6 +43,6 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 #### 8. Atualizar -- fazer download das ultimas mudanças do SERVIDOR GIT para o DIRETÓRIO LOCAL.
 
-```$ git pull origin```
+`$ git pull origin`
 
 #### \~\~\~ FIM \~\~\~
