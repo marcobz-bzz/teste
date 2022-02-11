@@ -29,7 +29,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$
 
 #### 6. Criar o snapshot do projeto através do COMMIT no REPOSITÓRIO LOCAL.
 
-```$ git commit -m "comentário: fechando snapshot e testando atualização"```
+```$ git commit -m "comentário sobre as modificações feitas"```
 
 #### 7. Fazer o upload do snapshot para o SERVIDOR GIT através do PUSH.
 
